@@ -5,7 +5,7 @@ test test test
 
 ## Test code 
 
-```
+```python
 
 a = 1
 
